@@ -1,6 +1,10 @@
 # ava-puppeteer
 Simple example on how to run UI tests built with ava & puppeteer on docker container.
 
+# Clone this repository
+```git clone https://github.com/tanvee38/ava-puppeteer.git```
+```cd ava-puppeteer```
+
 ## To run test locally:
 
 1. install packages: ```npm install```
