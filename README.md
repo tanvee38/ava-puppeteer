@@ -1,5 +1,5 @@
 # ava-puppeteer
-Simple ava-puppeteer test running in docker
+Simple example on how to run UI tests built with ava & puppeteer on docker container.
 
 To run test locally:
 
