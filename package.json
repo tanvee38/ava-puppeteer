@@ -1,0 +1,15 @@
+{
+  "name": "ava-puppeteer-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "ava ./tests/sample.tests.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "puppeteer": "^1.20.0"
+  }
+}
