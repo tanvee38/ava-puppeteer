@@ -1,7 +1,7 @@
 # ava-puppeteer
 Simple example on how to run UI tests built with ava & puppeteer on docker container.
 
-# Clone this repository
+## Clone this repository
 ```git clone https://github.com/tanvee38/ava-puppeteer.git```
 ```cd ava-puppeteer```
 
