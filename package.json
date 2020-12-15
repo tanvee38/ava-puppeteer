@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "ava ./tests/sample.tests.js"
+    "test": "ava -s -v ./tests/sample.tests.js"
   },
   "author": "",
   "license": "ISC",
